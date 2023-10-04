@@ -1,2 +1,2 @@
 # Demo
-hello banagalore!
+hello bangalore!
